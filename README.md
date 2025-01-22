@@ -2,7 +2,7 @@
 Calculadora em C para números extremamente grandes
 
 Intruções:
-1-Abra o arquivo "client" na pasta "output".
+1-Abra o arquivo "client".
 2-Digite o primeiro numero e pressione enter.
 3-Digite o segundo numero e pressione enter.
 4-Digite a operação, + para soma, - para subtração e * para multiplicação e pressione enter.
