@@ -3,7 +3,7 @@ Calculadora em C para números extremamente grandes
 
 Intruções:
 
-1-Abra o arquivo "client".
+1-Abra o arquivo "client.exe".
 
 2-Digite o primeiro numero e pressione enter.
 
